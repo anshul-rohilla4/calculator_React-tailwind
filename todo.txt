@@ -1,0 +1,4 @@
+make a ai chatbot using some free api.
+check gemini 1.5o flash
+make responsive design
+add some cool animation and designs
