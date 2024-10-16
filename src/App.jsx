@@ -135,7 +135,7 @@ function App() {
     <>
     <div className="flex  items-center justify-center min-h-screen ">
       <div className='calcBODY bg-black bg-opacity-50 flex flex-col rounded  m-5 min-w-[600px] max-w-[600px]  '>
-        <div className='calcDisplay  flex flex-col bg-teal-950 bg-opacity-20 justify-end text-end p-1 min-h-20 overflow-hidden text-ellipsis whitespace-nowrap delay-200 '>
+        <div className='calcDisplay  flex flex-col bg-teal-950 bg-opacity-20 justify-end text-end p-1 min-h-20 overflow-hidden text-ellipsis whitespace-nowrap delay-300 ease-linear '>
           <div className='calcPreviousOP text-white opacity-75 text-4xl '>{previousOP}{operation}</div>
           <div className='calcCurrentOP text-black text-6xl pt-3 '>{currentOP}</div>
         </div>
